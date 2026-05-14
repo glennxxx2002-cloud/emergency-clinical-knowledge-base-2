@@ -1,5 +1,29 @@
 # 急診臨床知識庫
 
+This is a structured emergency medicine knowledge base designed for rapid bedside reference, ongoing education, and continuous protocol updates.
+
+## Purpose
+
+- Organize high-yield emergency medicine topics into a practical, searchable format.
+- Support bedside clinical reasoning, teaching, and iterative protocol-aware updates.
+
+## Scope
+
+- Resuscitation and critical care
+- Chief-complaint-based emergency evaluation
+- Disease-specific emergency management
+- ACLS 2025 topic modules
+- Procedures, medications, and appendices
+
+## Use Cases
+
+- Rapid review before or during shifts
+- Teaching residents, students, and staff
+- Building local protocol-aware emergency references
+- Continuous personal knowledge management in emergency medicine
+
+## 中文說明
+
 這是一套以急診臨床工作流程為核心的知識庫骨架，目標是讓常見主訴、危急處置、程序、藥物與流程能快速查找、持續維護。
 
 ## 使用原則
