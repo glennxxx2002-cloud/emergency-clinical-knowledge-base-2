@@ -2,6 +2,10 @@
 
 This is a structured emergency medicine knowledge base designed for rapid bedside reference, ongoing education, and continuous protocol updates.
 
+## Repository
+
+- GitHub: [glennxxx2002-cloud/emergency-clinical-knowledge-base-2](https://github.com/glennxxx2002-cloud/emergency-clinical-knowledge-base-2)
+
 ## Purpose
 
 - Organize high-yield emergency medicine topics into a practical, searchable format.
@@ -55,3 +59,9 @@ This is a structured emergency medicine knowledge base designed for rapid bedsid
 - 建議把整個資料夾作為單一 Git repository 維護。
 - 遠端建議使用 GitHub private repository，方便跨電腦同步與版本追蹤。
 - 若使用 Obsidian，可同步整個資料夾，但把本機工作區設定留在 `.gitignore`。
+
+## 貢獻與更新
+
+- 請先閱讀 [CONTRIBUTING.md](./CONTRIBUTING.md)。
+- 新增條目時優先沿用 [templates/clinical-topic-template.md](./templates/clinical-topic-template.md)。
+- 涉及藥物劑量、流程圖或風險分層時，請補上來源與更新日期。
