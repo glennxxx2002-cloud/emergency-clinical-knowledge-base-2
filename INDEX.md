@@ -14,6 +14,7 @@
 - [急診常見錯誤專區](./11_急診常見錯誤/INDEX.md)
 - [重症與ICU專區](./12_重症與ICU/INDEX.md)
 - [條目模板](./templates/clinical-topic-template.md)
+- [每日急診論文更新模板](./templates/daily-ed-paper-update-template.md)
 
 ## 已建立條目
 
@@ -69,6 +70,8 @@
 - [高血壓急症](./03_疾病主題/高血壓急症.md)
 - [急性腎盂腎炎](./03_疾病主題/急性腎盂腎炎.md)
 - [腸缺血](./03_疾病主題/腸缺血.md)
+- [壞死性軟組織感染](./03_疾病主題/壞死性軟組織感染.md)
+- [疝氣嵌頓與 strangulation](./03_疾病主題/疝氣嵌頓與strangulation.md)
 
 ### 2025 ACLS 專區
 
@@ -132,8 +135,6 @@
 - 小兒跛行
 - 老年人急診陷阱
 - 精神症狀的器質性鑑別
-- 壞死性軟組織感染
-- 疝氣嵌頓與 strangulation
 
 ## 維護規則
 
